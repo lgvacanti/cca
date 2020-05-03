@@ -1,1 +1,1 @@
-// Test
+Game.Win('Third-party');
